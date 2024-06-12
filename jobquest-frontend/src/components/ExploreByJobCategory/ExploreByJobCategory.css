@@ -1,0 +1,12 @@
+.category-card:hover {
+    background-color: red !important;
+    color: white !important;
+}
+
+.category-card:hover .nav-link  {
+    color: white !important;
+}
+
+.category-card:hover .category-card-img  {
+    color: white !important;
+}

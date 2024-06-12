@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+
+.sidebar-text{
+    color: #747474;
+    font-weight: bold;
+    font-size: 17px;
+    width: 100%;
+    text-decoration: none;
+}
+
+.sidebar-text:hover{
+    color: #ff1c1c !important;
+    background-color: #ffbebe;
+}
+
+.nActive{
+    color: #ff1c1c !important;
+    background-color: #ffbebe;
+}
+
+.sidebar-text:active{
+    color: #ff6363 !important;
+}
+
+.custom-nav-link{
+    display: flex !important;
+    padding: 0.6rem 0.6rem 0.6rem 1rem;
+}
+
+.icon-margin {
+    margin-top: 0.25rem;
+    margin-right: 1rem;
+}
+
+.greetingTag{
+    font-family: 'Abel', sans-serif;
+    color: #000000;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    overflow: hidden;
+    padding-left: 1.5rem;
+    color: white;
+}
+
+.box {
+    width: 24rem;
+    height: 7rem;
+}
+
+.box>h1{
+    font-size: 3.5rem;
+    margin: 0;
+    padding: 1.2rem;
+}
+
+.box p{
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding-top: 2.2rem;
+}
+
+.red {
+    background-color: #4640DE;
+}
+
+.green {
+    background-color: #56CDAD;
+}
+
+.blue {
+    background-color: #26A4FF;
+}
+
+.institute {
+    background-color: #DE8240;
+}
+
+.course {
+    background-color: #40DE46;
+}
+
+.job {
+    background-color: #DE406F;
+}
+
+.Nav.Link{
+    width: 100%;
+}

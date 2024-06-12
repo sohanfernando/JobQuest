@@ -1,0 +1,26 @@
+User -
+
+{
+    "email": "user@example.com",
+    "password": "examplePassword"
+}
+
+
+
+
+Admin -
+
+{
+    "email": "admin@gmail.com",
+    "password": "examplePassword"
+}
+
+
+
+
+Institute -
+
+{
+    "email": "institute@gmail.com",
+    "password": "examplePassword"
+}

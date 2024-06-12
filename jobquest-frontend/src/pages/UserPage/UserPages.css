@@ -1,0 +1,14 @@
+.sidebar-text{
+    color: #747474;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.sidebar-text:hover{
+    color: #ff1c1c !important;
+    background-color: #ffbebe;
+}
+
+.sidebar-text:active{
+    color: #ff6363 !important;
+}
